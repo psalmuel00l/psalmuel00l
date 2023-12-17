@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning dart
 - 💞️ I’m looking to collaborate on flutter
-- 📫 How to reach me linktr.ee/samuel_salako
+- 📫 How to reach me 07032390144
 
 <!---
 psalmuel00l/psalmuel00l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
